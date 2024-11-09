@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <h1>Linea de conflicto</h1>
       <Users />
     </>
   );

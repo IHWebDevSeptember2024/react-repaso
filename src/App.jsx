@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <p>Otro conflicto, qué listo soy que no aviso</p>
       <Users />
     </>
   );

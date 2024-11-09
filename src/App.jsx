@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <a href="google.com">Link tonto de ejemplo</a>
       <Users />
     </>
   );

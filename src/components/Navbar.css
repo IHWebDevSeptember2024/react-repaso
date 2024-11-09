@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(39, 43, 89);
+    color: aliceblue;
+    padding: 2rem 0;
+    ul{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+    }
+}

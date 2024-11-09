@@ -1,0 +1,222 @@
+[
+  {
+    "firstname": "Alejandro",
+    "lastname": "García",
+    "role": "Software Engineer",
+    "username": "agarcia",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "E-commerce Platform for Shinra"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=1"
+  },
+  {
+    "firstname": "Emma",
+    "lastname": "Johnson",
+    "role": "Product Manager",
+    "username": "ejohnson",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "Customer Portal for Compuglobalhipermeganet"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=2"
+  },
+  {
+    "firstname": "Carlos",
+    "lastname": "Martínez",
+    "role": "UX Designer",
+    "username": "cmartinez",
+    "projects": [
+      "E-commerce Platform for Shinra",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=3"
+  },
+  {
+    "firstname": "Nia",
+    "lastname": "Singh",
+    "role": "Data Scientist",
+    "username": "nsingh",
+    "projects": [
+      "Customer Portal for Compuglobalhipermeganet",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=4"
+  },
+  {
+    "firstname": "Javier",
+    "lastname": "López",
+    "role": "Backend Developer",
+    "username": "jlopez",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "E-commerce Platform for Shinra"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=5"
+  },
+  {
+    "firstname": "Anaïs",
+    "lastname": "Dupont",
+    "role": "Frontend Developer",
+    "username": "adupont",
+    "projects": [
+      "Customer Portal for Compuglobalhipermeganet",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=6"
+  },
+  {
+    "firstname": "Pedro",
+    "lastname": "Ruiz",
+    "role": "QA Engineer",
+    "username": "pruiz",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "Customer Portal for Compuglobalhipermeganet"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=7"
+  },
+  {
+    "firstname": "Laura",
+    "lastname": "Hernández",
+    "role": "DevOps Engineer",
+    "username": "lhernandez",
+    "projects": [
+      "E-commerce Platform for Shinra",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=8"
+  },
+  {
+    "firstname": "Samuel",
+    "lastname": "Williams",
+    "role": "Mobile Developer",
+    "username": "swilliams",
+    "projects": [
+      "Customer Portal for Compuglobalhipermeganet",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=9"
+  },
+  {
+    "firstname": "Elena",
+    "lastname": "Díaz",
+    "role": "Technical Writer",
+    "username": "ediaz",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "E-commerce Platform for Shinra"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=10"
+  },
+  {
+    "firstname": "Francisco",
+    "lastname": "Pérez",
+    "role": "Cybersecurity Specialist",
+    "username": "fperez",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "Customer Portal for Compuglobalhipermeganet"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=11"
+  },
+  {
+    "firstname": "Isabel",
+    "lastname": "Sánchez",
+    "role": "AI Engineer",
+    "username": "isanchez",
+    "projects": [
+      "E-commerce Platform for Shinra",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=12"
+  },
+  {
+    "firstname": "Ananya",
+    "lastname": "Chopra",
+    "role": "Cloud Architect",
+    "username": "achopra",
+    "projects": [
+      "Customer Portal for Compuglobalhipermeganet",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=13"
+  },
+  {
+    "firstname": "Patricia",
+    "lastname": "Vázquez",
+    "role": "Database Administrator",
+    "username": "pvazquez",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "E-commerce Platform for Shinra"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=14"
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Chen",
+    "role": "Machine Learning Engineer",
+    "username": "mchen",
+    "projects": [
+      "Customer Portal for Compuglobalhipermeganet",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=15"
+  },
+  {
+    "firstname": "Sofía",
+    "lastname": "Ortiz",
+    "role": "Project Coordinator",
+    "username": "sortiz",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "Customer Portal for Compuglobalhipermeganet"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=16"
+  },
+  {
+    "firstname": "Antonio",
+    "lastname": "Moreno",
+    "role": "Full Stack Developer",
+    "username": "amoreno",
+    "projects": [
+      "E-commerce Platform for Shinra",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=17"
+  },
+  {
+    "firstname": "Li",
+    "lastname": "Zhang",
+    "role": "Scrum Master",
+    "username": "lzhang",
+    "projects": [
+      "Customer Portal for Compuglobalhipermeganet",
+      "Mobile App for Madrid Chamartin"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=18"
+  },
+  {
+    "firstname": "Miguel",
+    "lastname": "Gil",
+    "role": "Business Analyst",
+    "username": "mgil",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "E-commerce Platform for Shinra"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=19"
+  },
+  {
+    "firstname": "Teresa",
+    "lastname": "Reyes",
+    "role": "Sales Engineer",
+    "username": "treyes",
+    "projects": [
+      "Digital Transformation for Banco Frankenstein",
+      "Customer Portal for Compuglobalhipermeganet"
+    ],
+    "imageUrl": "https://i.pravatar.cc/300?img=20"
+  }
+]
